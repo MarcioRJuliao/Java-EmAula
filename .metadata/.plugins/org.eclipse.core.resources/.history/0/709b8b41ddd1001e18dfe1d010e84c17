@@ -1,0 +1,24 @@
+package br.com.escola.teste;
+
+import br.com.escola.beans.Aluno;
+
+public class TesteAluno {
+
+	public static void main(String[] args) {
+
+		Aluno aluno = new Aluno();
+
+		aluno.setNome("Matheus");
+		aluno.setIdade("22");
+		aluno.setRM("191275");
+		aluno.setCursoAlocado("DS");
+		
+		System.out.println("O nome do aluno é /n" + aluno.getNome());
+		System.out.println("/n A idade do aluno é /n " + aluno.getIdade() );
+		System.out.println("/n O RM do aluno é /n " + aluno.getRM() );
+		System.out.println("/n O curso do aluno é /n " + aluno.getCursoAlocado());
+		
+
+	}
+
+}

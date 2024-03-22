@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;ETECConexaoBD/src/br.com.etecconexaobr&apos;&#x0D;&#x0A;- Original project: &apos;PrimeiraConexaoBD&apos;&#x0D;&#x0A;- Destination element: &apos;ETECConexaoBD/src/br.com.etecconexaobr&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     br.com.fiap.conexao.Conexao.java&#x0D;&#x0A;     br.com.fiap.conexao.ConexaoFactory.java" description="Copy compilation units" destination="=ETECConexaoBD/src&lt;br.com.etecconexaobr" element1="/src&lt;br.com.fiap.conexao{Conexao.java" element2="/src&lt;br.com.fiap.conexao{ConexaoFactory.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1710462381082" units="2" version="1.0"/>
+</session>

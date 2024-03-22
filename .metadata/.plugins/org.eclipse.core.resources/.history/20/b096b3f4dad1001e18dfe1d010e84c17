@@ -1,0 +1,23 @@
+package br.com.escola.beans;
+
+public class Aluno extends Pessoa {
+	private String RM;
+	private String CursoAlocado;
+
+	public String getRM() {
+		return RM;
+	}
+
+	public void setRM(String rM) {
+		RM = rM;
+	}
+
+	public String getCursoAlocado() {
+		return CursoAlocado;
+	}
+
+	public void setCursoAlocado(String cursoAlocado) {
+		CursoAlocado = cursoAlocado;
+	}
+
+}

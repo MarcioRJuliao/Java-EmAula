@@ -1,0 +1,6 @@
+package br.com.etecconexao.model;
+
+public class Automovel {
+	private String nomeMontadora;
+
+}

@@ -1,0 +1,15 @@
+package br.com.etecconexaobr.teste;
+
+import br.com.etecconexaobr.model.Pessoa;
+
+public class Programa {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Pessoa pessoa = new Pessoa();
+		
+		pessoa.setNome("Nine");
+		pessoa.setEndereço("Rua pipipipopopo");
+	}
+
+}

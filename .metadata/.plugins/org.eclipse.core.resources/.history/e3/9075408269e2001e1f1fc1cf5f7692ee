@@ -1,0 +1,16 @@
+package br.com.etecconexaobr.dao;
+
+import java.sql.Connection;
+
+public class PessoaDAO {
+	
+	private Connection con;
+
+	public Connection getCon() {
+		return con;
+	}
+
+	public void setCon(Connection con) {
+		this.con = con;
+	}
+}
