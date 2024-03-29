@@ -2,8 +2,8 @@ package br.com.etecconexaobr.teste;
 
 import java.sql.Connection;
 
-import br.com.etecconexaobr.conexao.Conexao;
 import br.com.etecconexaobr.model.Pessoa;
+import br.com.fabricacalcado.conexao.Conexao;
 import br.com.etecconexaobr.dao.PessoaDAO;
 
 public class Programa {
