@@ -111,7 +111,7 @@ public class ChineloDAO {
 		ArrayList<Chinelo> retornarDadosChinelo = new ArrayList<Chinelo>();
 		try {
 			PreparedStatement ps = getCon().prepareStatement(sql);
-			ps.setDouble(1, chinelo.getPeso());
+			ps.setDouble(1, peso);
 			ResultSet rs = ps.executeQuery();
 			if (rs != null) {
 				while (rs.next()) {

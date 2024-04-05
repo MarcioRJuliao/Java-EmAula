@@ -1,8 +1,0 @@
-package br.com.etecconexaobr.dao;
-
-import java.sql.Connection;
-
-public class PessoaDAO {
-	
-	private Connection con;
-}
