@@ -24,6 +24,7 @@ public class TesteInserirChinelo {
 		System.out.println(chinelodao.inserirChinelo(chinelo));
 
 		Conexao.fecharConexao(con);
+		
 
 	}
 
