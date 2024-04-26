@@ -48,7 +48,7 @@ public class Teste {
 				recebeSiafi + "\n"
 					);
 			
-			System.out.println(enderecodao.inserir(endereco, cpf));
+			System.out.println(enderecodao.inserir(endereco));
 			
 		} catch (IOException e) {
 			// TODO Auto-generated catch block

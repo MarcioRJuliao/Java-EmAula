@@ -3,6 +3,8 @@ package model;
 public class Pessoa {
 
 	private long cpf;
+	private String nome;
+	private int idade;
 	public long getCpf() {
 		return cpf;
 	}
@@ -21,7 +23,9 @@ public class Pessoa {
 	public void setIdade(int idade) {
 		this.idade = idade;
 	}
-	private String nome;
-	private int idade;
 
+	
+	
+	
+	
 }
